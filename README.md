@@ -1,2 +1,2 @@
 # git-demo
-Demo to Intro Video.
+Example of how git works.
